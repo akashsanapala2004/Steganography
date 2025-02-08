@@ -29,6 +29,5 @@ Before running the program, ensure that you have the following Python packages i
 ```bash
 pip install numpy pandas opencv-python matplotlib
 
-
-
-
+```bash
+python Steganography.py
